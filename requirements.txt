@@ -1,4 +1,5 @@
 streamlit
 openai
-chromadb
 tiktoken
+chromadb
+markitdown[all]
